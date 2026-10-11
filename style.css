@@ -8,7 +8,10 @@ header {
   position: sticky;
   background-color: white;
   padding: 10px;
-  box-shadow: 0 1px 3px #ff96cb;
+  box-shadow: 0 2px 5px #ff96cb;
+}
+section ul {
+  text-align: left;
 }
 nav a {
   color: #ff96cb;
@@ -23,6 +26,7 @@ nav a:hover {
 nav ul {
   padding: 0;
   margin: 0;
+  list-style: none;
 }
 main, section {
   display: flex;
@@ -35,5 +39,5 @@ main, section {
 footer {
   background-color: white;
   padding: 10px;
-  box-shadow: 0 1px 3px #ff96cb;
+  box-shadow: 0 2px 5px #ff96cb;
 }
