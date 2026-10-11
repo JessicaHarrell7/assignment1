@@ -7,7 +7,7 @@ header {
   top: 0;
   position: sticky;
   background-color: white;
-  padding: 10px;
+  padding: 5px 10px;
   box-shadow: 0 2px 5px #ff96cb;
 }
 section ul {
@@ -29,6 +29,8 @@ nav ul {
   padding: 0;
   margin: 0;
   list-style: none;
+  display: flex;
+  gap: 15px;
 }
 main, section {
   display: flex;
