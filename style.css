@@ -13,7 +13,7 @@ header {
 section ul {
   text-align: left;
   width: 250px;
-  align-self: center;
+  box-sizing: border-box;
 }
 nav a {
   color: #ff96cb;
