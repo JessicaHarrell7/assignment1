@@ -12,6 +12,7 @@ header {
 }
 section ul {
   text-align: left;
+  align-self: flex-start;
 }
 nav a {
   color: #ff96cb;
