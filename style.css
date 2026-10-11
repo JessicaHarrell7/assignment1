@@ -12,7 +12,8 @@ header {
 }
 section ul {
   text-align: left;
-  align-self: stretch;
+  margin-right: auto;
+  margin-left: 0;
 }
 nav a {
   color: #ff96cb;
