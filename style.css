@@ -1,5 +1,12 @@
-body{
+body {
   font-family: Georgia, serif;
   line-height: 1.5;
   background-color: #ffebf5;
+}
+header {
+  top: 0;
+  position: sticky;
+  background-color: white;
+  padding: 10px;
+  box-shadow: 0 1px 3px #ff96cb;
 }
