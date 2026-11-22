@@ -59,14 +59,11 @@ footer {
 
 /* adding the dark mode */
 body.dark {
-  background: #990e54;
+  background: black;
   color: white;
 }
 
 body.dark #theme-toggle {
-  background: #82315a;
+  background: #66113c;
   color: white;
 }
-
-
-
