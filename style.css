@@ -45,3 +45,28 @@ footer {
   padding: 10px;
   box-shadow: 0 2px 5px #ff96cb;
 }
+
+/* theme button */
+#theme-toggle {
+	background: #ff96cb;
+	border: none;
+	border-radius: 20px;
+	padding: 8px 16px;
+	margin-bottom: 16px;
+	cursor: pointer;
+  font-family: Georgia, serif;
+}
+
+/* adding the dark mode */
+body.dark {
+  background: #990e54;
+  color: white;
+}
+
+body.dark #theme-toggle {
+  background: #82315a;
+  color: white;
+}
+
+
+
