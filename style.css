@@ -67,3 +67,17 @@ body.dark #theme-toggle {
   background: #66113c;
   color: white;
 }
+body.dark header {
+	background: black;
+	color: white;
+	}
+body.dark footer {
+	background: black;
+	color: white;
+}
+
+
+
+	
+
+	
